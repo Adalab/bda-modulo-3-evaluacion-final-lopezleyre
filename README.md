@@ -27,7 +27,7 @@ El análisis se ha dividido en tres fases:
 - Análisis Descriptivo.
 - Prueba estadística (ANOVA).
 
-
+---
 ##### :bar_chart: Herramientas utilizadas
 
 - Visual Studio Code :computer:: Entorno de desarrollo y visualizador del código.
